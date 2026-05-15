@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Coquedama Colgante",
+    "description": "Palmera exótica en base de musgo natural con diseño colgante. Una pieza artesanal, elegante y de bajo mantenimiento, ideal para transformar cualquier rincón en un espacio zen.",
+    "price": 75000,
+    "image": "/img/coquedama-colgante.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Coquedama Palmito",
+    "description": "Coquedama con palma de interior y base de musgo natural, ideal para aportar frescura y un estilo zen a cualquier ambiente. Decorativa, elegante y perfecta para espacios modernos con poco mantenimiento.",
+    "price": 70000,
+    "image": "/img/coquedama-palmito.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Maceta Cuadrada",
+    "description": "Maceta cuadrada de cemento con ilustraciones abstractas en colores suaves y acabado artesanal. Perfecta para darle un toque alegre y moderno a plantas pequeñas y espacios interiores.",
+    "price": 57000,
+    "image": "/img/maceta-cuadrada.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Maceta Prisma",
+    "description": "Maceta geométrica de cemento con diseño artesanal en tonos pastel y detalles dorados. Moderna y decorativa, ideal para sumar estilo a cualquier rincón de tu casa sin ocupar mucho espacio.",
+    "price": 57000,
+    "image": "/img/maceta-prisma.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Suculenta Rosa",
+    "description": "Suculenta Echeveria de tonos rosados y lilas con forma de roseta. Resistente, fácil de cuidar y perfecta para decorar escritorios, estanterías o cualquier rincón con un toque natural y moderno.",
+    "price": 20000,
+    "image": "/img/suculenta-rosa.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Suculenta Verde",
+    "description": "Suculenta colgante tipo Sedum de hojas verdes y carnosas, ideal para decorar interiores con un estilo natural y moderno. Fácil de cuidar, resistente y perfecta para macetas pequeñas o estanterías.",
+    "price": 30000,
+    "image": "/img/suculenta-verde.jpeg"
+  }
+]
