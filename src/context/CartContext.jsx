@@ -1,6 +1,8 @@
 import { createContext, useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
+import { CartSummary } from "../components/Cart/CartSummary";
+
 const CartContext = createContext();
 
 
@@ -61,7 +63,14 @@ export const CartProvider = ({children}) => {
         navigate("/");
     }
 
-    const values = {addItem, removeItem, getTotalItems, getCartTotal, clearCart, checkout };
+    const values = { 
+        cart, 
+        addItem, 
+        removeItem, 
+        getTotalItems, 
+        getCartTotal, 
+        clearCart, 
+        checkout };
     return <CartContext.Provider value={values}>{children}</CartContext.Provider>
 
 };

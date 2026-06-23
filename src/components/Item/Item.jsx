@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 
 
 export const Item = ({ id, title, description, price, image, children }) => {
+  console.log(image);
   return (
     <article className="card">
       <Link to={`/product/${id}`}>
